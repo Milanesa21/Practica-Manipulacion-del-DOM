@@ -14,7 +14,7 @@
   
   button {
     padding: 10px 20px;
-    background-color: #008080;
+    background-color: #808;
     color: #fff;
     border: none;
     border-radius: 4px;
@@ -26,4 +26,8 @@
     font-weight: bold;
     margin-top: 20px;
   }
-  
+  .container {
+    border: 2px solid #000000;
+    border-radius: 10px;
+    padding: 20px;
+  }
