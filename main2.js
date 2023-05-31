@@ -14,7 +14,7 @@ const recetas = [
       titulo: "Pastel de Chocolate",
       descripcion: "Irresistible pastel de chocolate con cobertura de ganache.",
       imagen:
-        "https://www.azucardominomex.com/sites/azucardominomex_com/files/styles/m/public/2022-09/600x336_PASTEL-DE-CHOCOLATE-BRUCE.jpg.webp?itok=gb1wsXIT",
+        "https://imag.bonviveur.com/pastel-de-chocolate.webp",
     },
     {
       titulo: "Ensalada Caprese",
